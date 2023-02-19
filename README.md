@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theshreek
-- 👀 I’m interested in Frontend
+- 👀 I’m interested in Web Application
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @theshreek at linkedin
