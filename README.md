@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theshreek
-- 👀 I’m interested in Web Application
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning JAVA, SpringBoot
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @theshreek at linkedin
 
